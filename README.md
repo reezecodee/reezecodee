@@ -1,3 +1,10 @@
+- 👋 Hi there, you can call me "Reeze"
+- 👀 I’m interested in Backend Developer with Laravel
+- 🌱 I’m currently learning Dart
+- ✨ I'm open to collaboration
+
+<br>
+
 <div style="display: flex; justify-content: center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=reezecodee&layout=compact&hide=html,css&langs_count=8" alt="image" width = "45%" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=reezecodee&" alt="image" width = "45%" />
