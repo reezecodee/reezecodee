@@ -15,3 +15,5 @@
 <p><h3>Programming Languages</h3><img src="https://skillicons.dev/icons?i=php,typescript,python">
 <p><h3>Frameworks</h3><img src="https://skillicons.dev/icons?i=vue,tailwindcss,laravel,express">
 <p><h3>Databases</h3><img src="https://skillicons.dev/icons?i=mysql"></p>
+
+<img alt="Reeze's Top Languages WakaTime" src="https://github-readme-stats.vercel.app/api/wakatime?username=reezecodee&theme=transparent&title_color=5acbe9&color=E3E3E3&text_color=DEDEDE&hide_border=true&text_bold=true&layout=compact" /><br>
