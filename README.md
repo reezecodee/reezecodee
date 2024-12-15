@@ -15,3 +15,4 @@
 <p><h3>Programming Languages</h3><img src="https://skillicons.dev/icons?i=php,typescript,python">
 <p><h3>Frameworks</h3><img src="https://skillicons.dev/icons?i=vue,tailwindcss,laravel,express">
 <p><h3>Databases</h3><img src="https://skillicons.dev/icons?i=mysql"></p>
+
