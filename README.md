@@ -1,6 +1,6 @@
 <!-- <img src="https://utfs.io/f/1Vi5BNMUOBYhWAc1pToO1BT5270NfXnLsGQxlwzHvcoPSVhY" alt="image" width="100%"/>
 <br> -->
-
+![Codewars Badge](https://www.codewars.com/users/reezecodee/badges/micro)
 - 👋 Hi there, you can call me "Reeze"
 - 👀 I’m interested in Backend Developer with Laravel
 - 🌱 I’m currently learning Dart
