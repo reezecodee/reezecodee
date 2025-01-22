@@ -12,6 +12,6 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=reezecodee&layout=compact&hide=html,css&langs_count=6" alt="image" width = "45%" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=reezecodee&" alt="image" width = "45%" />
 </div>
-<p><h3>Techstacks</h3><img src="https://skillicons.dev/icons?i=php,typescript,python,vue,tailwindcss,laravel,express,adonis,mysql">
+<p><h3>Tech Stacks</h3><img src="https://skillicons.dev/icons?i=php,typescript,python,vue,tailwindcss,laravel,express,adonis,mysql">
 
 
