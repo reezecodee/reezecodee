@@ -3,7 +3,7 @@
 <!-- ![Codewars Badge](https://www.codewars.com/users/reezecodee/badges/micro) -->
 - 👋 Hi there, you can call me "Reeze"
 - 👀 I’m interested in Backend Developer with Laravel and AdonisJS
-- 🌱 I’m currently learning Dart
+- 🌱 I’m currently learning Dart and Flutter
 - ✨ I'm open to collaboration
 
 <br>
