@@ -12,4 +12,4 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=reezecodee&layout=compact&hide=html,css,scss,jupyter%20notebook&langs_count=6" alt="image" width = "45%" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=reezecodee&" alt="image" width = "45%" />
 </div>
-<p><h3>Commonly used tools</h3><img src="https://skillicons.dev/icons?i=php,typescript,python,dart,vue,pinia,tailwindcss,laravel,express,adonis,mysql">
+<p><h3>Commonly used tools</h3><img src="https://skillicons.dev/icons?i=php,typescript,python,dart,vue,pinia,tailwindcss,laravel,express,adonis,mysql,mongodb">
