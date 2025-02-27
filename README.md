@@ -15,4 +15,3 @@
 <p><h3>Commonly used tools</h3><img src="https://skillicons.dev/icons?i=php,typescript,python,dart,vue,pinia,tailwindcss,laravel,express,adonis,mysql,mongodb">
 
 <!-- ![Codewars Badge](https://www.codewars.com/users/reezecodee/badges/micro) -->
-
