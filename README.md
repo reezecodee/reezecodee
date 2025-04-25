@@ -9,7 +9,7 @@
 <p>An Information Systems student with a deep passion for programming and high enthusiasm for developing server-side applications.</p>
 
 <div style="display: flex; justify-content: center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=reezecodee&layout=compact&hide=html,css,scss,jupyter%20notebook&langs_count=6" alt="image" width = "45%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=reezecodee&layout=compact&hide=html,css,scss&langs_count=6" alt="image" width = "45%" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=reezecodee&" alt
 ="image" width = "45%" />
 </div>
