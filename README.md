@@ -13,8 +13,8 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=reezecodee&" alt
 ="image" width = "45%" />
 </div>
-<
-p><h3>The tools that I use today</h3><img src="https://skillicons.dev/icons?i=typescript,python,dart,flutter,vue,laravel,express,mysql,docker">
+
+<h3>The tools that I use today</h3><img src="https://skillicons.dev/icons?i=typescript,python,dart,flutter,vue,laravel,express,mysql,docker">
 
 <!-- ![Codewars Badge](https://www.codewars.com/users/reezecodee/badges/micro) -->
 
