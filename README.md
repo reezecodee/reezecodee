@@ -14,7 +14,7 @@
 ="image" width = "45%" />
 </div>
 
-<h3>The tools that I use today</h3><img src="https://skillicons.dev/icons?i=typescript,python,dart,flutter,vue,laravel,express,mysql,docker">
+<h3>The tools that I use today</h3><img src="https://skillicons.dev/icons?i=typescript,python,dart,flutter,laravel,express,mysql">
 
 <!-- ![Codewars Badge](https://www.codewars.com/users/reezecodee/badges/micro) -->
 
