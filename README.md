@@ -5,11 +5,8 @@
 - 🌱 I’m currently learning Dart and Flutter
 - ✨ I'm open to collaboration
 <br>
-<p>An Information Systems student with a deep passion for programming and high enthusiasm for developing server-side applications.</p>
 -->
-<p>I am an Information Systems student at Bina Sarana Informatika University with a deep focus and interest in the field of Backend Development. I have experience in building and developing the server-side of web applications using various modern technologies such as TypeScript, ExpressJS, Laravel, and MySQL.
-</p>
-<p>Currently, I am also expanding my knowledge into Mobile Development by learning Flutter for building cross-platform applications, as well as exploring Machine Learning. I am always enthusiastic about learning new things and seek opportunities to apply my skills in challenging projects.</p>
+<p>An Information Systems student with a deep passion for programming and high enthusiasm for developing server-side applications.</p>
 
 <div style="display: flex; justify-content: center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=reezecodee&layout=compact&hide=html,css,scss&langs_count=6" alt="image" width = "45%" />
