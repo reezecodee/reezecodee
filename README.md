@@ -1,11 +1,3 @@
-<!-- <img src="https://utfs.io/f/1Vi5BNMUOBYhWAc1pToO1BT5270NfXnLsGQxlwzHvcoPSVhY" alt="image" width="100%"/> -->
-<!--
-- 👋 Hi there, you can call me "Reeze"
-- 👀 I’m interested in Backend Developer with Laravel and AdonisJS
-- 🌱 I’m currently learning Dart and Flutter
-- ✨ I'm open to collaboration
-<br>
--->
 <p>An Information Systems student with a deep passion for programming and high enthusiasm for developing server-side applications.</p>
 
 <div style="display: flex; justify-content: center">
@@ -15,7 +7,3 @@
 </div>
 
 <h3>The tools that I use today</h3><img src="https://skillicons.dev/icons?i=typescript,python,dart,php">
-
-<!-- ![Codewars Badge](https://www.codewars.com/users/reezecodee/badges/micro) -->
-
-
