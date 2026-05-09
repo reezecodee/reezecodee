@@ -16,7 +16,7 @@ const me: Developer = {
 ```
 
 <div style="display: flex; justify-content: center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=azuvicenna&layout=compact&hide=html,css,scss&langs_count=6" alt="image" width = "45%" />
+<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=azuvicenna&layout=compact&hide=html,css,scss&langs_count=6" alt="image" width = "45%" /> -->
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=azuvicenna&" alt
 ="image" width = "45%" />
 </div>
