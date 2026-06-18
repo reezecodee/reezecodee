@@ -5,7 +5,7 @@ import type { Developer } from "./types";
 
 const me: Developer = {
   username: "azuvicenna",
-  age: 20,
+  age: 21,
   job: "Software Developer & Student",
   university: "Bina Sarana Informatika University",
   currentlyLearning: {
