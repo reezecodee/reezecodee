@@ -11,7 +11,7 @@ const me: Developer = {
   currentlyLearning: {
     technologies: ["Fullstack Development"],
   },
-  location: "Tasikmalaya, ID"
+  location: "Ciamis, ID"
 };
 ```
 
