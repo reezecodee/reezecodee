@@ -7,7 +7,6 @@ const me: Developer = {
   username: "azuvicenna",
   age: 21,
   job: "Software Developer",
-  university: "Bina Sarana Informatika University",
   currentlyLearning: {
     technologies: ["Software Development", "Machine Learning", "DevOps", "IT Infrastructure"],
     languages: ["Japanese", "English"]
