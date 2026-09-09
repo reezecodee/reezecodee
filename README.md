@@ -7,7 +7,7 @@ const me: Developer = {
   job: "Software Developer",
   location: "Ciamis, Indonesia",
   system: {
-    os: "Windows",
+    os: "Windows 11",
     ide: ["VS Code", "Antigravity"]
   },
   currentlyLearning: {
